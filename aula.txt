@@ -1,0 +1,4 @@
+Estamos testando o uso de branchs com git hub.
+Essa forma de trabalho é muito interessante,
+pois é possivel trabalhar em grupos usando 
+somente um projeto.
